@@ -1,0 +1,11 @@
+.recipe-cards-area {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+}
+.recipe-cards {
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+}
